@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;paper_nyle&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../rsc.io" />
+      <root url="file://$PROJECT_DIR$/../Nyle" />
+      <root url="file://$PROJECT_DIR$/../gx" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../ps" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../CruxPubSub" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../rsc.io" />
+      <root url="file://$PROJECT_DIR$/../Nyle" />
+      <root url="file://$PROJECT_DIR$/../gx" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../ps" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../CruxPubSub" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

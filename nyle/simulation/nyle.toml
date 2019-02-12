@@ -1,0 +1,8 @@
+Simulation = "nyleSimul"
+Servers = 20
+Bf = 19
+Rounds = 1
+Suite = "Ed25519"
+
+Depth
+1

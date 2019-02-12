@@ -1,0 +1,9 @@
+Simulation = "LocalityService"
+Servers = 8
+Bf = 9
+Rounds = 10
+CloseWait = 6000
+Suite = "Ed25519"
+
+Depth
+1
